@@ -27,23 +27,3 @@ const App = () => {
 };
 
 export default App;
-// import React from "react";
-// import ImageUploader from "./components/ImageUploader";
-// import CustomizerForm from "./components/CustomizerForm";
-// import { ThemeProvider } from "./themes/ThemeContext";
-// import { CustomizerProvider } from "./context/CustomizerContext";
-
-// const App = () => {
-//   return (
-//     <ThemeProvider>
-//       <CustomizerProvider>
-//         <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 p-4">
-//           <ImageUploader />
-//           <CustomizerForm />
-//         </div>
-//       </CustomizerProvider>
-//     </ThemeProvider>
-//   );
-// };
-
-// export default App;

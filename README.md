@@ -17,13 +17,11 @@ Users can customize a t-shirt by:
 - Selecting body metrics like Height, Weight, and Build  
 All changes dynamically reflect on a live preview.
 
-Design inspired by: [Original UI Pen](https://codepen.io/jkantner/full/OPJrMbp)
-
 ---
 
 ## 🔗 Live Demo
 
-🌐 **[View Live Site](https://<your-cloudflare-project>.pages.dev/)**
+🌐 **[View Live Site](https://pod-t-shirt-store.pages.dev/)**
 
 ---
 
